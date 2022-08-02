@@ -1,0 +1,2 @@
+SELECT ADDDATE('2022-08-02', interval 31 DAY),ADDDATE('2022-08-02', interval 1 MONTH);
+SELECT subDATE('2022-08-02', interval 31 DAY),subDATE('2022-08-02', interval 1 MONTH);

@@ -12,4 +12,3 @@ INSERT INTO buytbl (`userID`, `prodName`, `groupName`, `price`, `amount`) VALUES
 INSERT INTO buytbl (`userID`, `prodName`, `groupName`, `price`, `amount`) VALUES ('PSH', '운동화', NULL, 480, 2);
 INSERT INTO buytbl (`userID`, `prodName`, `groupName`, `price`, `amount`) VALUES ('LHJ', '책', '서적', 240, 1);
 INSERT INTO buytbl (`userID`, `prodName`, `groupName`, `price`, `amount`) VALUES ('PSH', '운동화', NULL, 480, 2);
-sys

@@ -1,6 +1,4 @@
 USE sqldb;
-
-
 CREATE TABLE stdtbl
 (stdName VARCHAR(10) NOT NULL PRIMARY KEY,
 addr CHAR(4) NOT NULL
