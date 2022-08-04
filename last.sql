@@ -1,0 +1,11 @@
+USE TABLEDB;
+ALTER TABLE userTBL DROP COLUMN mobile1;
+
+ALTER TABLE usertbl change COLUMN name uName VARCHAR(20) NULL;
+
+ALTER TABLE usertbl DROP PRIMARY KEY;
+
+
+
+
+
